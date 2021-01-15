@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body 
+{
+	background-color:white;
+}
+h1
+{
+	color:grey;
+}
+footer
+{
+	position:absolute;
+   bottom:0;
+   width:100%;
+   font-size: 30px;
+}
+#result
+{
+	background-color: yellow;
+}
 
